@@ -15,6 +15,3 @@ User answers the questions that the application asks him and after that a passwo
 * Should I include uppercase letters in the password? 
 * Should the characters "!#$%&*+-=?@^_"?" be included in the password? 
 * Should I exclude ambiguous characters "il1Lo0O"? 
-
-## LICENCE
-Copyright (c) 2022 Daniil Pokryshkin
