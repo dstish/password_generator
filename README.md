@@ -17,3 +17,4 @@ User answers the questions that the application asks him and after that a passwo
 * Should I exclude ambiguous characters "il1Lo0O"? 
 
 ## LICENCE
+Copyright (c) 2022 Daniil Pokryshkin
